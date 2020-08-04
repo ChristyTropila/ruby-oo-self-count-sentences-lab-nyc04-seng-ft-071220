@@ -30,11 +30,10 @@ class String
   end
 
   # def count_sentences
-  #   complex=[]
-  #  return self.split(" ").count
+  #   self.split(" ").count
   #  #binding.pry
   #  if self.sentence? || self.question? || self.exclamation?
-  #    complex << self
+  #    
   #    binding.pry
   #  end
    
